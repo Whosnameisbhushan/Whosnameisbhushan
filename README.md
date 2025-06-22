@@ -2,7 +2,7 @@
 
 💡 Passionate about coding, problem-solving, and building innovative solutions.
 
-🌟 Skills:  Python, React, ML, MERN , SQL.
+🌟 Skills:  Python, React, MERN , SQL.
 
 🚀 Open to learning and collaborating on exciting tech projects.
 
